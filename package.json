@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-photo-library-sism",
+  "name": "cordova-plugin-photo-library",
   "version": "2.2.97",
   "description": "Plugin that saves photos to the gallery / camera roll. Actually updated so it almost always works.",
   "main": "index.js",
